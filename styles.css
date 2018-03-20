@@ -1,0 +1,21 @@
+body{
+	background-color: #efefef;
+	overflow: auto;
+}
+.container{
+	background-color: #909497;
+}
+h1{
+	background-color:#A9DFBF; 
+	color: #145A32;
+}
+form{
+	background-color:#A9DFBF; 
+	color: #145A32;
+	border: none;
+}
+.submit{
+	background-color:#A9DFBF; 
+	color: #145A32;
+	border: 1px solid #145A32;
+}
